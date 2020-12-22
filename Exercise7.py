@@ -5,6 +5,7 @@
 # Physical activity - physical.mp3 - every 45min - ExDone
 
 #rules - use pygame module to play audio
+#hello i am jainish and this programme is very useful
 
 import time
 from pygame import mixer
